@@ -19,7 +19,7 @@ local_users:
   arista:
     privilege: 15
     role: network-admin
-    sha512_password: $6$TfLYK0fLP/ppxJYY$KEIb2RsHpCU9/UBLu8fFaY1uui51/VhOyA3FVEnUMybI1mwNz3MwZY7XjJu9tlroSXY5Gv5opPzTL6L1ogRhm/
+    sha512_password: $6$/T8Y3hYjswtePLz0$ZBgbLk8ix2uahJCS9M1eTXaJNXJugtwee1gkvEqZcUDJuod134188KvZliix.f6H2xDbrSnPPWnfZ/MZxWScy.
 vrfs:
   default:
     ip_routing: false
